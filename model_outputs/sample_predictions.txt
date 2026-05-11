@@ -1,0 +1,40 @@
+Sample 1
+Reference : < gdi image1 > the night was thick with tension as < gdo char21 > officer smith < / gdo > < gda char21 > stood < / gda > in the heart of the < gdl bg1 > military base < / gdl >. the air carried with
+Prediction: air
+
+Sample 2
+Reference : < gdi image1 > in a dimly lit room, < gdo char8 > susan < / gdo > < gda char8 > clutched < / gda > < gdo obj1 > the cell phone < / gdo > tightly, her voice trembling over the line. < g
+Prediction: /
+
+Sample 3
+Reference : < gdi image1 > in the heart of a dimly lit room, the atmosphere was thick with silence and suspense. < gdo char4 > jack < / gdo > stood alone, < gda char4 > holding < / gda > < gdo obj1 > a cell phone <
+Prediction: holding
+
+Sample 4
+Reference : < gdi image1 > in the dimly lit < gdl bg1 > indoor room < / gdl >, < gdo char2 > jack < / gdo > stood near the < gdo obj1 > door < / gdo >, his mind racing with thoughts of the mission
+Prediction: /
+
+Sample 5
+Reference : < gdi image1 > in the < gdl bg1 > open field with bushes and trees < / gdl >, < gdo char4 > john < / gdo > stood near < gdo obj3 > the brown horse < / gdo >, feeling a sense of determination
+Prediction: /
+
+Sample 6
+Reference : < gdi image1 > the evening settled over < gdl lm1 > manhattan, new york city < / gdl >, casting a serene yet somber mood upon the urban landscape. < gdo bg7 > background buildings < / gdo > stood tall and silent, their windows aglow
+Prediction: gdl
+
+Sample 7
+Reference : < gdi image1 > under the vast < gdo bg3 > sky < / gdo >, < gdo char13 > sarah < / gdo > stood amidst the gentle rustling of < gdo bg7 bg8 > trees < / gdo > and the soft carpet of
+Prediction: gdo
+
+Sample 8
+Reference : < gdi image1 > in the dimly lit sanctuary of < gdo char3 > kevin < / gdo > ' s bedroom, < gdo char3 > kevin < / gdo > < gda char3 > sat < / gda > engrossed in < gdo obj1
+Prediction: >
+
+Sample 9
+Reference : < gdi image1 > in the quiet, neutral - toned room adorned with < gdo bg3 > the wall < / gdo > and < gdo bg16 > the rug < / gdo >, < gdo char9 > alice < / gdo >, < gdo
+Prediction: <
+
+Sample 10
+Reference : < gdi image1 > in the shadowed confines of a < gdl location : dark indoor space >, < gdo char8 > the woman in the dark < / gdo > and < gdo char1 > the man in the shadow < / gdo > < gda char8 char1
+Prediction: char1
+

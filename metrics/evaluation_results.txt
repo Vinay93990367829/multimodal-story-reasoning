@@ -1,0 +1,6 @@
+
+FINAL EVALUATION RESULTS
+
+BLEU Score     : 0.5287
+ROUGE-L Score  : 0.6729
+METEOR Score   : 0.6646
